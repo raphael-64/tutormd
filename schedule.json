@@ -1,0 +1,29 @@
+[
+    {
+        "Monday": {
+            "isBooked": false
+        },
+        "Tuesday": {
+            "isBooked": false
+        },
+        "Wednesday": {
+            "isBooked": false
+        }
+    },
+    {
+        "Tuesday": {
+            "isBooked": false
+        }
+    },
+    {
+        "Wednesday": {
+            "isBooked": false
+        },
+        "Thursday": {
+            "isBooked": false
+        },
+        "Friday": {
+            "isBooked": false
+        }
+    }
+]

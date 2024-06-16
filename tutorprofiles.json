@@ -1,0 +1,74 @@
+[
+    {
+        "fname": "Nate",
+        "lname": "Morley",
+        "email": "natemorely@sd71gmail.com",
+        "grade": "11",
+        "day": [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+        ],
+        "courses": [
+            "mah9",
+            "ma10",
+            "law12"
+        ],
+        "aboutme": "I am fluent in being a Ginger so feel free to come and find me if you need help with Gingers.  I ONLY surround myself with Gingers.  ",
+        "psw": "catkiller123",
+        "uid": 0,
+        "imagetype": "jpg"
+    },
+    {
+        "fname": " Kale ",
+        "lname": "Lines",
+        "email": "kalelines@lines.com",
+        "grade": "10",
+        "day": [
+            "Tuesday"
+        ],
+        "courses": [
+            "mah9",
+            "ma10",
+            "ma10h",
+            "ls11",
+            "en12l",
+            "it12",
+            "er10",
+            "cri12",
+            "cs10",
+            "ict10",
+            "dtco11"
+        ],
+        "aboutme": "I am super passionate about music, and I especially like to listen to indie artists. Feel free to talk to me about it. \r\n \r\n",
+        "psw": "ilikeveggies",
+        "uid": 1,
+        "imagetype": "jpg"
+    },
+    {
+        "fname": "Patrick",
+        "lname": "Huang",
+        "email": "patrick@gmail.com",
+        "grade": "12",
+        "day": [
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "courses": [
+            "wpm11",
+            "pcm12h",
+            "en12l",
+            "ens12",
+            "lit12",
+            "mnd11",
+            "cf12",
+            "ph12",
+            "phg12"
+        ],
+        "aboutme": "I like chess. ",
+        "psw": "chess123",
+        "uid": 2,
+        "imagetype": "jpg"
+    }
+]
